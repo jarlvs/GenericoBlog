@@ -1,0 +1,88 @@
+[09-Jul-2018 10:38:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'betaform.cr2k18' doesn't exist' in /home/durveshkumar/public_html/genericoblog/panels.php:99
+Stack trace:
+#0 /home/durveshkumar/public_html/genericoblog/panels.php(99): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/durveshkumar/public_html/genericoblog/panels.php on line 99
+[09-Jul-2018 10:39:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'betaform.cr2k18' doesn't exist' in /home/durveshkumar/public_html/genericoblog/panels.php:99
+Stack trace:
+#0 /home/durveshkumar/public_html/genericoblog/panels.php(99): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/durveshkumar/public_html/genericoblog/panels.php on line 99
+[09-Jul-2018 10:40:36 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:40:36 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:41:29 UTC] PHP Notice:  Array to string conversion in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:41:29 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:41:37 UTC] PHP Notice:  Array to string conversion in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:41:37 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:42:09 UTC] PHP Notice:  Undefined index: username in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:42:09 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:45:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/durveshkumar/public_html/genericoblog/panels.php on line 99
+[09-Jul-2018 10:45:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/durveshkumar/public_html/genericoblog/panels.php on line 99
+[09-Jul-2018 10:46:15 UTC] PHP Notice:  Undefined index: college in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:46:15 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:47:44 UTC] PHP Notice:  Array to string conversion in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:47:44 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:52:12 UTC] PHP Notice:  Array to string conversion in /home/durveshkumar/public_html/genericoblog/panels.php on line 101
+[09-Jul-2018 10:52:12 UTC] PHP Notice:  Undefined index: college in /home/durveshkumar/public_html/genericoblog/panels.php on line 107
+[09-Jul-2018 10:52:12 UTC] PHP Notice:  Undefined index: email in /home/durveshkumar/public_html/genericoblog/panels.php on line 110
+[09-Jul-2018 10:58:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/durveshkumar/public_html/genericoblog/panels.php on line 108
+[09-Jul-2018 11:00:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/durveshkumar/public_html/genericoblog/panels.php on line 108
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:02:39 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 112
+[09-Jul-2018 11:05:28 UTC] PHP Parse error:  syntax error, unexpected '$no' (T_VARIABLE), expecting ',' or ';' in /home/durveshkumar/public_html/genericoblog/panels.php on line 121
+[09-Jul-2018 11:09:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/durveshkumar/public_html/genericoblog/panels.php on line 108
+[09-Jul-2018 11:09:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/durveshkumar/public_html/genericoblog/panels.php on line 108
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:04 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:12:52 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:20 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:14:48 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 114
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 11:19:58 UTC] PHP Notice:  Undefined index: name in /home/durveshkumar/public_html/genericoblog/panels.php on line 113
+[09-Jul-2018 13:59:11 UTC] PHP Notice:  Undefined variable: row in /home/durveshkumar/public_html/genericoblog/index.php on line 72
+[09-Jul-2018 14:05:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/durveshkumar/public_html/genericoblog/index.php on line 65
